@@ -7,6 +7,10 @@ body {
   background-color: #fff1f5;
 }
 
+#banner {
+  width: 100%;
+}
+
 h1 {
   text-align: center;
   color: #d06b6b;
