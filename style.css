@@ -49,9 +49,14 @@ h1 {
   color: #e08686;
 }
 
+.left {
+  text-align: leftt;
+  color: #e08686;
+}
+
 main {
-  margin-left: 3em;
-  margin-right: 3em;
+  margin-left: 2em;
+  margin-right: 2em;
   display: flex;
   flex-direction: column;
 }
