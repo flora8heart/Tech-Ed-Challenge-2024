@@ -37,6 +37,7 @@ body {
 
 #banner {
   width: 100%;
+  border-radius: 0px;
 }
 
 h1 {
@@ -60,6 +61,20 @@ main {
   margin-bottom: 2em;
   display: flex;
   flex-direction: column;
+}
+
+.img_display {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+img {
+  width: 20%;
+  border-radius: 4%;
 }
 
 footer {
