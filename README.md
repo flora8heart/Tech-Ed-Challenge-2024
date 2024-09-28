@@ -2,4 +2,4 @@
 
 ## About Me Webpage
 
-This "About Me" webpage was created as a project for an online course.
+This "About Me" webpage was created as an introductory project for an online course.
